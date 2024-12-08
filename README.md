@@ -1,2 +1,2 @@
-# Techo-Web
+# Jehora-Digital
 My website
